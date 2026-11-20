@@ -1,4 +1,7 @@
 # 🔎 Semantic Job Matcher
+![Upload resume and top match](screenshot1.png)
+![Ranked matches with skill gaps](screenshot2.png)
+![More matches](screenshot3.png)
 
 Upload a resume and get the most relevant jobs, ranked by **semantic similarity** rather than exact keyword overlap.
 Each match also shows **which skills you share** with the job and **which skills you'd need to learn**.

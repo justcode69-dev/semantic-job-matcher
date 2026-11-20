@@ -1,0 +1,8 @@
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+model2vec
+numpy
+scikit-learn
+pypdf
+streamlit>=1.32
+pytest
